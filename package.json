@@ -1,0 +1,19 @@
+{
+  "name": "util",
+  "description": "some normally use javascript tools",
+  "version": "0.0.1",
+  "author": {
+    "name": "Carson"
+  },
+  "contributors": [
+    {
+      "name": "Carson Liu",
+      "email": "liucity@126.com"
+    }
+  ],
+  "keywords": [
+    "tool"
+  ],
+  "main": "./lib/util",
+  "readme": "ERROR: No README data found!"
+}
